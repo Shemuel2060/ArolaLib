@@ -1,0 +1,14 @@
+.midVbx {
+    -fx-padding: 10;
+    padding: 10;
+    -fx-border-style: solid inside;
+    border-style: solid inside;
+    -fx-border-width: 2;
+    border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    border-radius: 5;
+    -fx-border-color: blue;
+    border-color: blue;
+
+}

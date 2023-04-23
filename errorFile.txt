@@ -1,0 +1,5 @@
+JAVAFX DESKTOP APP AROLA HOME LIBRARY ERROR FILE
+
+Git error
+
+fatal: unable to access 'https://github.com/Shemuel2060/ArolaLib.git~/': Could not resolve host: github.com
